@@ -1,0 +1,17 @@
+export { AccountEditIcon } from "./AccountEditIcon";
+export { AddressIcon } from "./AddressIcon";
+export { OrdersIcon } from "./OrdersIcon";
+export { PasswordResetIcon } from "./PasswordResetIcon";
+export { WishListIcon } from "./WishListIcon";
+export { CategoryIcon } from "./CategoryIcon";
+export { ProductIcon } from "./ProductIcon";
+export { LogOutIcon } from "./LogOutIcon";
+export { LogInIcon } from "./LogInIcon";
+export { PostIcon } from "./PostIcon";
+export { ReactComponent as AcerIcon } from "./acer-icon.svg";
+export { ReactComponent as LogitechIcon } from "./logitech-icon.svg";
+export { ReactComponent as MsiIcon } from "./msi-icon.svg";
+export { ReactComponent as AsusIcon } from "./asus-icon.svg";
+export { ReactComponent as NvidiaIcon } from "./nvidia-icon.svg";
+export { ReactComponent as LogoPrimary } from "./logo-primary.svg";
+export { ReactComponent as LogoSecondary } from "./logo-secondary.svg";
